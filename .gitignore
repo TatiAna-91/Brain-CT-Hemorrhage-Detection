@@ -1,0 +1,16 @@
+# Local data and archives
+/dataset/
+/archive/
+/archive.zip
+
+# Jupyter and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# OS/editor files
+.DS_Store
+*.swp
+
+# Temporary renders and outputs
+*~
